@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>speedmeter/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>195</Column0><Column1>1</Column1><Column2>27</Column2><Column3>1242260</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1215</ColumnWidth1><ColumnWidth2>324</ColumnWidth2><ColumnWidth3>81</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1621</ColumnWidth1></Debug-Log>
+    <Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9372-20072</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>speedmeter</ExpandedNode><ExpandedNode>speedmeter/inc</ExpandedNode><ExpandedNode>speedmeter/inc/system</ExpandedNode><ExpandedNode>speedmeter/setup</ExpandedNode><ExpandedNode>speedmeter/src</ExpandedNode><ExpandedNode>speedmeter/src/flash</ExpandedNode><ExpandedNode>speedmeter/src/gui</ExpandedNode><ExpandedNode>speedmeter/src/gui/drivers</ExpandedNode><ExpandedNode>speedmeter/src/init</ExpandedNode><ExpandedNode>speedmeter/src/io</ExpandedNode><ExpandedNode>speedmeter/src/menu</ExpandedNode><ExpandedNode>speedmeter/src/system</ExpandedNode><ExpandedNode>speedmeter/src/timer</ExpandedNode><ExpandedNode>speedmeter/src/watchdog</ExpandedNode><ExpandedNode>speedmeter/types</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          
+          
+        <Tab><Identity>TabID-21484-20242</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-32446-21776</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\inc\menu\menu.h</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>2651</SelStart><SelEnd>2651</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\system\settings.c</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>3709</SelStart><SelEnd>3709</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\init\hardware_init.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>2651</SelStart><SelEnd>2651</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3 Evaluation\430\INC\msp430x16x.h</Filename><XPos>0</XPos><YPos>798</YPos><SelStart>41140</SelStart><SelEnd>41140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\setup\setup.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1110</SelStart><SelEnd>1110</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\io\i2c_device.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>2767</SelStart><SelEnd>2767</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\system\system.c</Filename><XPos>0</XPos><YPos>34</YPos><SelStart>1338</SelStart><SelEnd>1338</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\gui\display.c</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>1293</SelStart><SelEnd>1293</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\gui\drivers\PCF_8548_driver.c</Filename><XPos>0</XPos><YPos>214</YPos><SelStart>6288</SelStart><SelEnd>6288</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\menu\keyboard.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>1880</SelStart><SelEnd>1880</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\io\interrupt_device.c</Filename><XPos>0</XPos><YPos>163</YPos><SelStart>3994</SelStart><SelEnd>3994</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\gui\displayobjects\bitmap.c</Filename><XPos>0</XPos><YPos>98</YPos><SelStart>3242</SelStart><SelEnd>3242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\gui\displayobjects\text.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1338</SelStart><SelEnd>1338</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\menu\menu.c</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>3580</SelStart><SelEnd>3580</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\timer\rtc.c</Filename><XPos>0</XPos><YPos>473</YPos><SelStart>12434</SelStart><SelEnd>12434</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\main.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1201</SelStart><SelEnd>1201</SelEnd></Tab><ActiveTab>15</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\menu\menu_states.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2171</SelStart><SelEnd>2171</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Dani\work\hw\msp\projects\speedmeter\src\io\speed_meter.c</Filename><XPos>0</XPos><YPos>404</YPos><SelStart>11397</SelStart><SelEnd>11397</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00ab9a58><key>iaridepm.enu1</key></Toolbar-00ab9a58></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27><Row28><Sizes/></Row28><Row29><Sizes/></Row29><Row30><Sizes/></Row30><Row31><Sizes/></Row31><Row32><Sizes/></Row32><Row33><Sizes/></Row33><Row34><Sizes/></Row34><Row35><Sizes/></Row35><Row36><Sizes/></Row36><Row37><Sizes/></Row37><Row38><Sizes/></Row38><Row39><Sizes/></Row39><Row40><Sizes/></Row40><Row41><Sizes/></Row41><Row42><Sizes/></Row42><Row43><Sizes/></Row43><Row44><Sizes/></Row44><Row45><Sizes/></Row45><Row46><Sizes/></Row46><Row47><Sizes/></Row47><Row48><Sizes/></Row48><Row49><Sizes/></Row49><Row50><Sizes/></Row50><Row51><Sizes/></Row51><Row52><Sizes/></Row52><Row53><Sizes/></Row53><Row54><Sizes/></Row54><Row55><Sizes/></Row55><Row56><Sizes/></Row56><Row57><Sizes/></Row57><Row58><Sizes/></Row58><Row59><Sizes/></Row59><Row60><Sizes/></Row60><Row61><Sizes/></Row61><Row62><Sizes/></Row62><Row63><Sizes/></Row63><Row64><Sizes/></Row64><Row65><Sizes/></Row65><Row66><Sizes/></Row66><Row67><Sizes/></Row67><Row68><Sizes/></Row68><Row69><Sizes/></Row69><Row70><Sizes/></Row70><Row71><Sizes/></Row71><Row72><Sizes/></Row72><Row73><Sizes/></Row73><Row74><Sizes/></Row74><Row75><Sizes/></Row75><Row76><Sizes/></Row76><Row77><Sizes/></Row77><Row78><Sizes/></Row78><Row79><Sizes/></Row79><Row80><Sizes/></Row80><Row81><Sizes/></Row81><Row82><Sizes/></Row82><Row83><Sizes/></Row83><Row84><Sizes/></Row84><Row85><Sizes/></Row85><Row86><Sizes/></Row86><Row87><Sizes/></Row87><Row88><Sizes/></Row88><Row89><Sizes/></Row89><Row90><Sizes/></Row90><Row91><Sizes/></Row91><Row92><Sizes/></Row92><Row93><Sizes/></Row93><Row94><Sizes/></Row94><Row95><Sizes/></Row95><Row96><Sizes/></Row96><Row97><Sizes/></Row97><Row98><Sizes/></Row98><Row99><Sizes/></Row99><Row100><Sizes/></Row100><Row101><Sizes/></Row101><Row102><Sizes/></Row102><Row103><Sizes/></Row103><Row104><Sizes/></Row104><Row105><Sizes/></Row105><Row106><Sizes/></Row106><Row107><Sizes/></Row107><Row108><Sizes/></Row108><Row109><Sizes/></Row109><Row110><Sizes/></Row110><Row111><Sizes/></Row111><Row112><Sizes/></Row112><Row113><Sizes/></Row113><Row114><Sizes/></Row114></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>689</Bottom><Right>260</Right><x>-2</x><y>-2</y><xscreen>149</xscreen><yscreen>141</yscreen><sizeHorzCX>88690</sizeHorzCX><sizeHorzCY>145361</sizeHorzCY><sizeVertCX>155952</sizeVertCX><sizeVertCY>712371</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>237</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>239</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>246392</sizeHorzCY><sizeVertCX>88690</sizeVertCX><sizeVertCY>145361</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

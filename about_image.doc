@@ -1,0 +1,20 @@
+LCD graphic parameters // generated with bitmap2LCD V1.5b
+3/14/2010 20:11:00
+---------------------------------------------------------
+
+Paging Scheme vertical downwards
+Most significant bit first
+Origin corner top left
+
+C Header File : about_image.h
+
+Bitmap Source file : <none>
+
+Data table created : about
+Original X and Y coordinates
+True origin enabled
+Origin  X =0 Y =0
+Opposite corner X =0 Y =0
+Width = 32
+Height = 32
+128Bytes

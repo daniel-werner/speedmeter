@@ -13,5 +13,11 @@ from the ground up in C language.
 1. Measure the speed of the bicycle
 2. Show the speed on the LCD as an analog gauge
 3. Save the ride history to the controller's flash memory
+4. Customize the device according to the bicycle tire size
 
 ## Screenshots
+### The first success: the LCD is working
+![lcd-is-working](https://github.com/daniel-werner/speedmeter/raw/master/lcd_working.jpg)
+
+### The prototype is almost ready
+![almost-ready](https://github.com/daniel-werner/speedmeter/raw/master/speedmeter_box.jpg)
